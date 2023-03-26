@@ -1,6 +1,6 @@
 ## Hi there 😶‍🌫️
 
-# Im a guy wo try to learn:
+# Im a guy who trying to learn:
 - Cyber Security👨‍💻
 - Python🐍
 
