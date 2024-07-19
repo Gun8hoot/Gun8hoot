@@ -4,22 +4,12 @@ Hello, im ***Gun8hoot***. I like manga/anime, rap (71k minutes of music on spoti
 # My skills 
 ### Technologies im comfortable with:
 ---
-
-<center>
-
 >[![S/O skillicons for th icon](https://skillicons.dev/icons?i=python,markdown,bash,linux,html,css,&theme=dark)](https://skillcons.dev/)
 
-</center>
-
 ### Technologies where I have some basis
-
 ---
-
-<center>
-
 >[![S/O skillicons for th icon](https://skillicons.dev/icons?i=c,cpp,js,nodejs,windows&theme=dark)](https://skillcons.dev/)
 
-</center>
 <br>
 
 # Some Github stat
@@ -27,7 +17,6 @@ Hello, im ***Gun8hoot***. I like manga/anime, rap (71k minutes of music on spoti
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gun8hoot&theme=blue-green)
 
 <br>
-<center>
 <br>
 
 ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
