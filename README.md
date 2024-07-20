@@ -1,4 +1,3 @@
-# Gun8hoot Profile
 Hello, im ***Gun8hoot***. I like manga/anime, rap (71k minutes of music on spotify in 2023, target the 80k+ for this year), video games, new technologies, cryptocurency, cybersecurity and coding.<br><br>
 
 # My skills 
@@ -12,8 +11,8 @@ Hello, im ***Gun8hoot***. I like manga/anime, rap (71k minutes of music on spoti
 
 <br>
 
-# Some Github stat
-![](https://github-readme-stats.vercel.app/api?username=Gun8hoot&theme=blue-green) <br>
+## Some Github stat
+![](https://github-readme-stats.vercel.app/api?username=Gun8hoot&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gun8hoot&theme=blue-green)
 
 <br>
