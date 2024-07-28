@@ -1,4 +1,4 @@
-Hello, im ***Gun8hoot***. I like manga/anime, rap (71k minutes of music on spotify in 2023, target the 80k+ for this year), video games, new technologies, cryptocurency, cybersecurity and coding.<br><br>
+Hello, I'm ***Gun8hoot***. I like manga/anime, rap (71k minutes of music on Spotify in 2023, target the 80k+ for this year), video games, new technologies, cryptocurrency, cybersecurity and coding.<br><br>
 
 # My skills 
 ### Technologies im comfortable with:
