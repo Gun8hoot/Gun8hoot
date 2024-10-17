@@ -1,17 +1,16 @@
-Hello, I'm ***Gun8hoot***. I like manga/anime, rap (71k minutes of music on Spotify in 2023, target the 80k+ for this year), video games, new technologies, cryptocurrency, cybersecurity and coding.<br><br>
+Hey, i'm ***Gun8hoot***. I like manga/anime, rap (71k minutes of music on Spotify in 2023, target the 80k+ for this year), video games, new technologies, cryptocurrency, cybersecurity and coding.<br><br>
 
-# My skills 
+# 💽  • My skills 
 ### Technologies im comfortable with:
----
->[![S/O skillicons for th icon](https://skillicons.dev/icons?i=python,markdown,bash,linux,html,css,&theme=dark)](https://skillcons.dev/)
+[![S/O skillicons for th icon](https://skillicons.dev/icons?i=python,markdown,bash,linux,html,css,&theme=dark)](https://skillcons.dev/)
 
 ### Technologies where I have some basis
 ---
->[![S/O skillicons for th icon](https://skillicons.dev/icons?i=c,cpp,js,nodejs,windows&theme=dark)](https://skillcons.dev/)
+[![S/O skillicons for th icon](https://skillicons.dev/icons?i=c,cpp,js,nodejs,windows&theme=dark)](https://skillcons.dev/)
 
 <br>
 
-## Some Github stat
+## 📊  • Some Github stat
 ![](https://github-readme-stats.vercel.app/api?username=Gun8hoot&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gun8hoot&theme=blue-green)
 
