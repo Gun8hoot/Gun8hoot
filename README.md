@@ -1,5 +1,5 @@
 # 🧑‍💻 • About me
-Hey, i'm ***Gun8hoot***. I like manga/anime, music (especially rap), video games, new technologies, cybersecurity, coding and new technologies in general. English is not my mother tongue language so kind<br><br>
+Hey, i'm ***Gun8hoot***. I like manga/anime, music (especially rap), video games, new technologies, cybersecurity, coding and new technologies in general. English is not my mother tongue language so be kind<br><br>
 
 # 💽  • My skills 
 ### Technologies im comfortable with:
