@@ -6,7 +6,7 @@ Hey, i'm ***Gun8hoot***. I like manga/anime, music (especially rap), video games
 
 # 💽  • My skills 
 ### Technologies im comfortable with:
-[![S/O skillicons for th icon](https://skillicons.dev/icons?i=python,markdown,bash,linux,html,css,c, &theme=dark)](https://skillcons.dev/)
+[![S/O skillicons for th icon](https://skillicons.dev/icons?i=python,c,markdown,bash,linux,html,css, &theme=dark)](https://skillcons.dev/)
 
 ### Technologies where I have some basis
 [![S/O skillicons for th icon](https://skillicons.dev/icons?i=cpp,js,nodejs,windows&theme=dark)](https://skillcons.dev/)
