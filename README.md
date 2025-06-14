@@ -33,7 +33,7 @@ Yo, I'm ***Gun8hoot***. I'm between 15 and 25 years old, and I love music (rap, 
 
 <h2>🪙 • If you have money to lose</h2>
 
-| [![BTC](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=wh)](https://bitcoin.org/en/) | `Zpub6yVrcJ8hxtWXhnJZhjqMacZGNx6mVcBLyCBq7wQyXEU2o1fh9DjQXDak2f4Pu7nwKmBpzhXzhYiAeNTw6yEaxxksVMtbUDwUzxp25rpt8cb` |
+| BTC | `Zpub6yVrcJ8hxtWXhnJZhjqMacZGNx6mVcBLyCBq7wQyXEU2o1fh9DjQXDak2f4Pu7nwKmBpzhXzhYiAeNTw6yEaxxksVMtbUDwUzxp25rpt8cb` |
 |-----------------------------------------------------------------------------------------------------------|-----------------------------|
-| [![XMR](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)](https://www.getmonero.org/) | `8AqGdfWV5uRFZyEUKtUpB9Hzys8g2tozDexbPJp9xqLDHaEWpGvKTCZKXQBCYPu8Lb6E3emADjpjCD6FRsBSmdY76vw83DD` |
+| XMR | `8AqGdfWV5uRFZyEUKtUpB9Hzys8g2tozDexbPJp9xqLDHaEWpGvKTCZKXQBCYPu8Lb6E3emADjpjCD6FRsBSmdY76vw83DD` |
 
