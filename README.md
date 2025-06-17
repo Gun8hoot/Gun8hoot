@@ -1,4 +1,4 @@
-<a href="https://github.com/Gun8hoot"><img src="./bdg_berserk.jpg" alt="Go read berserk, it's an order 🛐" width="500"></a>
+<a href="https://github.com/Gun8hoot" style="cursor: none;"><img src="./src/bdg_berserk.jpg" alt="Go read berserk, it's an order 🛐" width="500"></a>
 
 <h1> 🧑‍💻 • About me </h1>
 
@@ -7,23 +7,28 @@ Yo, I'm ***Gun8hoot***. I'm between 15 and 25 years old, and I love music (rap, 
 <br>
 
 ***Last things :*** 
-🌍 Peace & Love all over the world 🌍
+🌍 _Peace & Love all over the world_ 🌍
 
 <h1> 💽  • My skills </h1>
 
 <div style="align-item: center">
-    <a href="https://github.com/Gun8hoot?tab=repositories&q&type&language=python&sort"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
-    <a href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c%2B%2B&sort"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/Gun8hoot?tab=repositories&q&type&language=python&sort"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"></a>
-    <a href="https://github.com/Gun8hoot?tab=repositories&q&type&language=html&sort"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a href="https://github.com/Gun8hoot?tab=repositories&q&type&language=shell&sort"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-    <a href="?"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a rel="Badge C" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=python&sort"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+    <a rel="Badge C++" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c%2B%2B&sort"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a rel="Badge Python" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=python&sort"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a rel="Badge HTML" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=html&sort"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a rel="Badge BASH" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=shell&sort"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+    <a rel="Badge Linux" href="?"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <!--
+    To find more badge: 
+    https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#badges
+    -->
+    <a></a>
 </div>
 
 
  
 <h2> 📊  • Github stats </h2>
-    <a href="?"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gun8hoot&bg_color=0,000000,130F40"></a>
+    <a href="https://github.com/Gun8hoot?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gun8hoot&bg_color=0,000000,130F40"></a>
 
 <h2>💬 • Social </h2>
     <a href="https://infosec.exchange/@Gun8hoot"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"></a>
@@ -33,7 +38,17 @@ Yo, I'm ***Gun8hoot***. I'm between 15 and 25 years old, and I love music (rap, 
 
 <h2>🪙 • If you have money to lose</h2>
 
-| BTC | `Zpub6yVrcJ8hxtWXhnJZhjqMacZGNx6mVcBLyCBq7wQyXEU2o1fh9DjQXDak2f4Pu7nwKmBpzhXzhYiAeNTw6yEaxxksVMtbUDwUzxp25rpt8cb` |
+| <a href="https://bitcoin.org/en/">BTC</a> | `Zpub6yVrcJ8hxtWXhnJZhjqMacZGNx6mVcBLyCBq7wQyXEU2o1fh9DjQXDak2f4Pu7nwKmBpzhXzhYiAeNTw6yEaxxksVMtbUDwUzxp25rpt8cb` |
 |-----------------------------------------------------------------------------------------------------------|-----------------------------|
-| XMR | `8AqGdfWV5uRFZyEUKtUpB9Hzys8g2tozDexbPJp9xqLDHaEWpGvKTCZKXQBCYPu8Lb6E3emADjpjCD6FRsBSmdY76vw83DD` |
+| <a href="https://www.getmonero.org">XMR</a> | `8AqGdfWV5uRFZyEUKtUpB9Hzys8g2tozDexbPJp9xqLDHaEWpGvKTCZKXQBCYPu8Lb6E3emADjpjCD6FRsBSmdY76vw83DD` |
 
+<!--It's just to fill my readme, dont send me money. If you realy want "waste" your money, send to people in need or to association-->
+
+
+<h2>📡 • Other Platform </h2>
+
+<div>
+    <!--I know, Im bad...🫥 -->
+    <a href="https://app.hackthebox.com/profile/1595967" rel="HackTheBox"><img src="./src/custom_banner/hackthebox.svg"></a>
+    <a href="https://tryhackme.com/p/Gun8hoot" rel="TryHackMe"><image src="./src/custom_banner/tryhackme.svg"</a>
+</div>
