@@ -27,8 +27,9 @@ Yo, I'm ***Gun8hoot***. I'm between 15 and 25 years old, and I love music (rap, 
 
 
  
-<h2> 📊  • Github stats </h2>
-    <a href="https://github.com/Gun8hoot?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gun8hoot&bg_color=0,000000,130F40"></a>
+<h2> 📊  • Stats </h2>
+    <a href="https://github.com/Gun8hoot?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gun8hoot&bg_color=0,000000,130F40"></a><br><br>
+    <a href="https://www.codewars.com/users/Gun8hoot"><img src="https://www.codewars.com/users/Gun8hoot/badges/large"></a>
 
 <h2>💬 • Social </h2>
     <a href="https://infosec.exchange/@Gun8hoot"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"></a>
@@ -51,4 +52,5 @@ Yo, I'm ***Gun8hoot***. I'm between 15 and 25 years old, and I love music (rap, 
     <!--I know, Im bad...🫥 -->
     <a href="https://app.hackthebox.com/profile/1595967" rel="HackTheBox"><img src="./src/custom_banner/hackthebox.svg"></a>
     <a href="https://tryhackme.com/p/Gun8hoot" rel="TryHackMe"><image src="./src/custom_banner/tryhackme.svg"</a>
+    <a href="https://www.codewars.com/users/Gun8hoot" rel="CodeWars"><img src="./src/custom_banner/codewars.svg"></a>
 </div>
