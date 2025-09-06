@@ -6,10 +6,10 @@
 
 <h1> 🧑‍💻 • About me </h1>
 
-Yo, I'm ***Gun8hoot***. I'm between 15 and 25 years old, and I love music (rap, rock, jazz, and electronic), coding , video games, and new tech. My goal is to work in cybersecurity, though I'm still exploring different fields—maybe as a SOC analyst, reverse engineer, or penetration tester.
+Yo, I'm ***Gun8hoot***. I'm between 15 and 25 years old, and I love music (rap, rock, jazz, and electronic), coding , video games, and new tech.
 
+<h3 align="center"><b>🌍 Peace & Love all over the world 🌍</b></h3>
 
-🌍 ***Peace & Love all over the world*** 🌍
 
 <br>
 
