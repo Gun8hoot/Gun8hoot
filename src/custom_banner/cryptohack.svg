@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="153. 25" height="28" role="img" aria-label="HACK THE BOX">
+        <g shape-rendering="crispEdges">
+            <rect width="153.25" height="28" fill="#00000"/>
+        </g>
+        <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+            <image x="9" y="7" width="14" height="14" href="data:image/svg+xml;base64,"/>
+            <text transform="scale(.1)" x="866.25" y="175" textLength="885" fill="#fff" font-weight="bold">Cryptohack</text>
+        </g>
+    </svg>

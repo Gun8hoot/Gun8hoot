@@ -4,22 +4,18 @@
     </a>
 </div>
 
-<h1> 🧑‍💻 • About me </h1>
+<h1> 🛰️ • About me </h1>
 
-Yo, I'm ***Gun8hoot***. I'm between 15 and 25 years old, and I love music (rap, rock, jazz, and electronic), coding , video games, and new tech. My goal is to work in cybersecurity, though I'm still exploring different fields—maybe as a SOC analyst, reverse engineer, or penetration tester.
-
-
-🌍 ***Peace & Love all over the world*** 🌍
+Yo, I'm ***Gun8hoot***. I'm between 15 and 25 years old, and I love music (rap, rock, jazz, and electronic), coding , video games, and new tech.
 
 <br>
 
 <h1> 💽  • My skills </h1>
 
 <div align="center">
-    <a rel="Badge C" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=python&sort"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+    <a rel="Badge C" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c&sort"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
     <a rel="Badge C++" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c%2B%2B&sort"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
     <a rel="Badge Python" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=python&sort"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"></a>
-    <a rel="Badge HTML" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=html&sort"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a rel="Badge BASH" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=shell&sort"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
     <a rel="Badge Linux" href="?"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
     <!--
@@ -50,7 +46,11 @@ Yo, I'm ***Gun8hoot***. I'm between 15 and 25 years old, and I love music (rap, 
 
 <div align="center">
     <!--I know, Im bad... 🫥 -->
-    <a href="https://app.hackthebox.com/profile/1595967" rel="HackTheBox"><img src="./src/custom_banner/hackthebox.svg"></a>
-    <a href="https://tryhackme.com/p/Gun8hoot" rel="TryHackMe"><image src="./src/custom_banner/tryhackme.svg"></a>
-    <a href="https://www.codewars.com/users/Gun8hoot" rel="CodeWars"><img src="./src/custom_banner/codewars.svg"></a>
+    <a href="https://app.hackthebox.com/profile/1595967" rel="HackTheBox">  <img src="./src/custom_banner/hackthebox.svg"></a>
+    <a href="https://tryhackme.com/p/Gun8hoot" rel="TryHackMe">             <img src="./src/custom_banner/tryhackme.svg"></a>
+    <a href="https://www.codewars.com/users/Gun8hoot" rel="CodeWars">       <img src="./src/custom_banner/codewars.svg"></a>
+    <a href="https://leetcode.com/u/gun8hoot/">                             <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
 </div>
+<br>
+
+<h3 align="center"><b>🌍 Peace & Love all over the world 🌍</b></h3>
