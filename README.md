@@ -14,7 +14,7 @@ Yo, I'm ***Gun8hoot***. I'm between 15 and 25 years old, and I love music (rap, 
 
 <div align="center">
     <a rel="Badge C" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c&sort"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
-    <a rel="Badge C++" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c%2B%2B&sort"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+   <!-- <a rel="Badge C++" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c%2B%2B&sort"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> -->
     <a rel="Badge Python" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=python&sort"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"></a>
     <a rel="Badge BASH" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=shell&sort"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
     <a rel="Badge Linux" href="?"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
