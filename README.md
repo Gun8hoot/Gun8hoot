@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://github.com/Gun8hoot" style="cursor: none;">
-		<img align="center"src="src/banner.gif" width="400" height="250">
+		<img align="center"src="src/banner.gif">
 	</a>
 </div>
 
