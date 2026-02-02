@@ -36,12 +36,11 @@ I'm a student in Software Engineering at **42 Le Havre (France)** doing the C/C+
 <h2> 📊  • Github Stats :</h2>
 	<div align="center">
 		<a href="https://github.com/Gun8hoot?tab=repositories">
-			<img width=350  src="https://awesome-github-stats.azurewebsites.net/user-stats/gun8hoot?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=true">
+			<img src="https://stats-khaki-two.vercel.app/api/top-langs/?username=gun8hoot&theme=dark&card_width=50">
 			<br>
-			<img src="https://github-readme-stats.vercel.app/api?username=gun8hoot&theme=dark&show_icons=false&hide_border=false&text_color=B9BCBA&ring_color=B9BCBA&count_private=true&bg_color=3A3D43&hide_title=true&card_width=50">
+			<img src="https://stats-khaki-two.vercel.app/api?username=gun8hoot&theme=dark&show_icons=false&hide_border=false&text_color=B9BCBA&ring_color=54FF47&count_private=true&hide_title=true&card_width=50">
 		</a>
 	</div>
-
 
 <h2>📡 • Other Platform :</h2>
 <div align="center">
