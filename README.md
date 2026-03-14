@@ -7,23 +7,26 @@
 <br>
 <br>
 
-<h1> 🛰️ • About me</h1>
+<h1> 🛰️ • About me </h1>
 
 Hello, I'm **Nathan __"Gun8hoot"__ Clavel.** 
 <br>
-I'm a student in Software Engineering at **42 Le Havre (France)** doing the C/C++ common core.
+I'm a student in Software Engineering at **42 Le Havre (France)** doing the C/C++ common core. I am deeply interested in computer software, cybersecurity, and cryptography.
 
 <br>
 
 <!-- <h2>📂 • Project</h2> -->
 
-<h2> 💽  • My skills :</h2>
+<h2> 💽  • My skills : </h2>
 <div align="center">
-	<a rel="Badge C" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c&sort"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+	<a rel="Badge C" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c&sort">
+		<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+	</a>
 	<!-- TO LEARN <a rel="Badge C++" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c%2B%2B&sort"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> -->
 	<!-- <a rel="Badge Python" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=python&sort"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"></a> -->
 	<a rel="Badge BASH" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=shell&sort"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-	<a rel="Badge Linux" href="?"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+	<a rel="Badge Linux" href="?"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"></a>
+	<a rel="Badge GIT" href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 	<!--
 	To find more badge: 
 	https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#badges
@@ -51,14 +54,8 @@ I'm a student in Software Engineering at **42 Le Havre (France)** doing the C/C+
 	<a href="https://leetcode.com/u/gun8hoot/">                             <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
 </div>
 <br>
-
-
-<!--
-<div rel="Last word" align="center" id="user-content-toc">
-	<ul style="list-style: none;">
-		<summary>
-			<h2>🌍 Peace & Love all over the world, everything will be alright 🌍</h2>
-		</summary>
-	</ul>
+<div align="center">
+	<a href="https://profile.intra.42.fr/users/nclavel">
+		<img src="https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white">
+	</a>
 </div>
--->
