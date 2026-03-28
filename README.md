@@ -17,8 +17,9 @@ I'm a student in Software Engineering at **42 Le Havre (France)** doing the C/C+
 
 <!-- <h2>📂 • Project</h2> -->
 
-<h2> 💽  • My skills : </h2>
+<h2> 💽  • Technologies </h2>
 <div align="center">
+	<h3>📚 • Learned technologies</h3>
 	<a rel="Badge C" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c&sort">
 		<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 	</a>
@@ -31,11 +32,30 @@ I'm a student in Software Engineering at **42 Le Havre (France)** doing the C/C+
 	To find more badge: 
 	https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#badges
 	-->
-	<a></a>
 </div>
 
+<div align="center">
+	<h3> 📚 • Technologies I'm interested in but I don't have learned it yet : </h3>
+	<a rel="Badge ASM" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=asm&sort">
+		<img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
+	</a>
+	<a rel="Badge Docker" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=dockerfile&sort">
+		<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+	</a>
+	<a rel="Badge JavaScript" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=js&sort">
+		<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+	</a>
+	<a rel="Badge C++" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=cpp&sort">
+		<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+	</a>
+	<a rel="Badge MariaDB" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=sql&sort">
+		<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+	</a>
+	<a rel="Badge Windows" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c&sort">
+		<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+	</a>
+</div>
 
- 
 <h2> 📊  • Github Stats :</h2>
 	<div align="center">
 		<a href="https://github.com/Gun8hoot?tab=repositories">
@@ -48,10 +68,11 @@ I'm a student in Software Engineering at **42 Le Havre (France)** doing the C/C+
 <h2>📡 • Other Platform :</h2>
 <div align="center">
 	<!-- 🫥 -->
-	<a href="https://www.root-me.org/Gun8hoot?lang=en" rel="RootMe">  	<img src="./src/custom_banner/root-me.svg"></a>
-	<a href="https://app.hackthebox.com/profile/1595967" rel="HackTheBox">  <img src="./src/custom_banner/hackthebox.svg"></a>
-	<a href="https://tryhackme.com/p/Gun8hoot" rel="TryHackMe">             <img src="./src/custom_banner/tryhackme.svg"></a>
-	<a href="https://leetcode.com/u/gun8hoot/">                             <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+	<a href="https://cryptohack.org/user/Gun8hoot/" rel="CryptoHack">				<img src="./src/custom_banner/cryptohack.svg"></a>
+	<a href="https://www.root-me.org/Gun8hoot?lang=en" rel="RootMe">				<img src="./src/custom_banner/root-me.svg"></a>
+	<a href="https://app.hackthebox.com/profile/1595967" rel="HackTheBox">	<img src="./src/custom_banner/hackthebox.svg"></a>
+	<a href="https://tryhackme.com/p/Gun8hoot" rel="TryHackMe">							<img src="./src/custom_banner/tryhackme.svg"></a>
+	<a href="https://leetcode.com/u/gun8hoot/">															<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
 </div>
 <br>
 <div align="center">
