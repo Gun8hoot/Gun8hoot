@@ -68,11 +68,11 @@ I'm a student in Software Engineering at **42 Le Havre (France)** doing the C/C+
 <h2>📡 • Other Platform :</h2>
 <div align="center">
 	<!-- 🫥 -->
-	<a href="https://cryptohack.org/user/Gun8hoot/" rel="CryptoHack">				<img src="./src/custom_banner/cryptohack.svg"></a>
-	<a href="https://www.root-me.org/Gun8hoot?lang=en" rel="RootMe">				<img src="./src/custom_banner/root-me.svg"></a>
-	<a href="https://app.hackthebox.com/profile/1595967" rel="HackTheBox">	<img src="./src/custom_banner/hackthebox.svg"></a>
-	<a href="https://tryhackme.com/p/Gun8hoot" rel="TryHackMe">							<img src="./src/custom_banner/tryhackme.svg"></a>
-	<a href="https://leetcode.com/u/gun8hoot/">															<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+	<a target="_blank" href="https://cryptohack.org/user/Gun8hoot/" rel="CryptoHack">				<img src="./src/custom_banner/cryptohack.svg"></a>
+	<a target="_blank" href="https://www.root-me.org/Gun8hoot?lang=en" rel="RootMe">				<img src="./src/custom_banner/root-me.svg"></a>
+	<a target="_blank" href="https://app.hackthebox.com/profile/1595967" rel="HackTheBox">	<img src="./src/custom_banner/hackthebox.svg"></a>
+	<a target="_blank" href="https://tryhackme.com/p/Gun8hoot" rel="TryHackMe">							<img src="./src/custom_banner/tryhackme.svg"></a>
+	<a target="_blank" href="https://leetcode.com/u/gun8hoot/">															<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
 </div>
 <br>
 <div align="center">
