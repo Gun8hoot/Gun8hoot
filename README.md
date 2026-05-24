@@ -28,6 +28,9 @@ I'm a student in Software Engineering at **42 Le Havre (France)** doing the C/C+
 	<a rel="Badge BASH" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=shell&sort"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 	<a rel="Badge Linux" href="?"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"></a>
 	<a rel="Badge GIT" href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+	<a rel="Badge Docker" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=dockerfile&sort">
+		<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+	</a>
 	<!--
 	To find more badge: 
 	https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#badges
@@ -38,9 +41,6 @@ I'm a student in Software Engineering at **42 Le Havre (France)** doing the C/C+
 	<h3> 📚 • Technologies I'm interested in but I don't have learned it yet : </h3>
 	<a rel="Badge ASM" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=asm&sort">
 		<img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
-	</a>
-	<a rel="Badge Docker" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=dockerfile&sort">
-		<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 	</a>
 	<a rel="Badge JavaScript" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=js&sort">
 		<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
