@@ -1,6 +1,6 @@
 <div align="center">
-	<a href="https://github.com/Gun8hoot" style="cursor: none;">
-		<img align="center"src="src/banner.gif">
+	<a href="https://github.com/Gun8hoot">
+		<img align="center" src="https://raw.githubusercontent.com/Gun8hoot/Gun8hoot/refs/heads/main/src/banner.gif">
 	</a>
 </div>
 
@@ -12,6 +12,12 @@
 Hello, I'm **Nathan __"Gun8hoot"__ Clavel.** 
 <br>
 I'm a student in Software Engineering at **42 Le Havre (France)** doing the C/C++ common core. I am deeply interested in computer software, cybersecurity, and cryptography.
+
+Here a list a non-exhaustive list of my personal project started but not finished :
+- [CTRL-TUI](https://github.com/Gun8hoot/CTRL-TUI) : A simple TUI coded from scratch in C++
+- [LNXEntropy](https://github.com/Gun8hoot/LNXEntropy) : A cryptography library to get entropy using mouse mouvement and keyboard input coded in C and without using external library
+- [PySubFinder](https://github.com/Gun8hoot/PySubFinder) : A simple python tool to find every subdomain of a website using a wordlist
+- [PyFTPAnon](https://github.com/Gun8hoot/PyFTPAnon) : A simple python tool to check if an FTP server have anonymous access is activate
 
 <br>
 
@@ -59,22 +65,22 @@ I'm a student in Software Engineering at **42 Le Havre (France)** doing the C/C+
 </div>
 
 <h2> 📊  • Github Stats :</h2>
-	<div align="center">
-		<a href="https://github.com/Gun8hoot?tab=repositories">
-			<img src="https://stats-khaki-two.vercel.app/api/top-langs/?username=gun8hoot&theme=dark&card_width=50">
-			<br>
-			<img src="https://stats-khaki-two.vercel.app/api?username=gun8hoot&theme=dark&show_icons=false&hide_border=false&text_color=B9BCBA&ring_color=54FF47&count_private=true&hide_title=true&card_width=50">
-		</a>
-	</div>
+<div align="center">
+	<a href="https://github.com/Gun8hoot?tab=repositories">
+		<img src="https://stats-khaki-two.vercel.app/api/top-langs/?username=gun8hoot&theme=dark&card_width=50">
+		<br>
+		<img src="https://stats-khaki-two.vercel.app/api?username=gun8hoot&theme=dark&show_icons=false&hide_border=false&text_color=B9BCBA&ring_color=54FF47&count_private=true&hide_title=true&card_width=50">
+	</a>
+</div>
 
 <h2>📡 • Other Platform :</h2>
 <div align="center">
 	<!-- 🫥 -->
-	<a target="_blank" href="https://cryptohack.org/user/Gun8hoot/" rel="CryptoHack">				<img src="./src/custom_banner/cryptohack.svg"></a>
-	<a target="_blank" href="https://www.root-me.org/Gun8hoot?lang=en" rel="RootMe">				<img src="./src/custom_banner/root-me.svg"></a>
-	<a target="_blank" href="https://app.hackthebox.com/profile/1595967" rel="HackTheBox">	<img src="./src/custom_banner/hackthebox.svg"></a>
-	<a target="_blank" href="https://tryhackme.com/p/Gun8hoot" rel="TryHackMe">							<img src="./src/custom_banner/tryhackme.svg"></a>
-	<a target="_blank" href="https://leetcode.com/u/gun8hoot/">															<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+	<a target="_blank" href="https://cryptohack.org/user/Gun8hoot/" rel="CryptoHack">						<img src="./src/custom_banner/cryptohack.svg"></a>
+	<a target="_blank" href="https://www.root-me.org/Gun8hoot?lang=en" rel="RootMe">						<img src="./src/custom_banner/root-me.svg"></a>
+	<a target="_blank" href="https://app.hackthebox.com/public/users/1595967" rel="HackTheBox">	<img src="./src/custom_banner/hackthebox.svg"></a>
+	<a target="_blank" href="https://tryhackme.com/p/Gun8hoot" rel="TryHackMe">									<img src="./src/custom_banner/tryhackme.svg"></a>
+	<a target="_blank" href="https://leetcode.com/u/gun8hoot/">																	<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
 </div>
 <br>
 <div align="center">
