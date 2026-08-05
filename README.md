@@ -17,7 +17,7 @@ Here a list a non-exhaustive list of my personal project started but not finishe
 - [CTRL-TUI](https://github.com/Gun8hoot/CTRL-TUI) : A simple TUI coded from scratch in C++
 - [LNXEntropy](https://github.com/Gun8hoot/LNXEntropy) : A cryptography library to get entropy using mouse mouvement and keyboard input coded in C and without using external library
 - [PySubFinder](https://github.com/Gun8hoot/PySubFinder) : A simple python tool to find every subdomain of a website using a wordlist
-- [PyFTPAnon](https://github.com/Gun8hoot/PyFTPAnon) : A simple python tool to check if an FTP server have anonymous access is activate
+- [PyFTPAnon](https://github.com/Gun8hoot/PyFTPAnon) : A simple python tool to check if anonymous access is activated on an FTP server
 
 <br>
 
