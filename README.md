@@ -7,24 +7,26 @@
 <br>
 <br>
 
-<h1> 🛰️ • About me </h1>
+<div align="center">
+	<h1> 🛰️ • About me </h1>
+</div>
 
 Hello, I'm **Nathan __"Gun8hoot"__ Clavel.** 
 <br>
-I'm a student in Software Engineering at **42 Le Havre (France)** doing the C/C++ common core. I am deeply interested in computer software, cybersecurity, and cryptography.
+I'm a student in Software Engineering at **42 Le Havre (France)** doing the C/C++ common core. I am deeply interested in computer systems, cybersecurity, and cryptography.
 
-Here a list a non-exhaustive list of my personal project started but not finished :
+Here is a list a non-exhaustive list of personal projects started i have started/done :
 - [CTRL-TUI](https://github.com/Gun8hoot/CTRL-TUI) : A simple TUI coded from scratch in C++
 - [LNXEntropy](https://github.com/Gun8hoot/LNXEntropy) : A cryptography library to get entropy using mouse mouvement and keyboard input coded in C and without using external library
-- [PySubFinder](https://github.com/Gun8hoot/PySubFinder) : A simple python tool to find every subdomain of a website using a wordlist
-- [PyFTPAnon](https://github.com/Gun8hoot/PyFTPAnon) : A simple python tool to check if anonymous access is activated on an FTP server
+- [PySubFinder](https://github.com/Gun8hoot/PySubFinder) : A simple Python tool to find every subdomain of a website using a wordlist
+- [PyFTPAnon](https://github.com/Gun8hoot/PyFTPAnon) : A simple Python tool to check if anonymous access is activated on an FTP server
 
 <br>
 
 <!-- <h2>📂 • Project</h2> -->
 
-<h2> 💽  • Technologies </h2>
 <div align="center">
+	<h2> 💽  • Technologies </h2>
 	<h3>📚 • Learned technologies</h3>
 	<a rel="Badge C" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c&sort">
 		<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -64,8 +66,8 @@ Here a list a non-exhaustive list of my personal project started but not finishe
 	</a>
 </div>
 
-<h2> 📊  • Github Stats :</h2>
 <div align="center">
+	<h2> 📊  • Github Stats :</h2>
 	<a href="https://github.com/Gun8hoot?tab=repositories">
 		<img src="https://stats-khaki-two.vercel.app/api/top-langs/?username=gun8hoot&theme=dark&card_width=50">
 		<br>
@@ -73,13 +75,13 @@ Here a list a non-exhaustive list of my personal project started but not finishe
 	</a>
 </div>
 
-<h2>📡 • Other Platform :</h2>
 <div align="center">
+	<h2>📡 • Other Platform :</h2>
 	<!-- 🫥 -->
-	<a target="_blank" href="https://cryptohack.org/user/Gun8hoot/" rel="CryptoHack">						<img src="./src/custom_banner/cryptohack.svg"></a>
-	<a target="_blank" href="https://www.root-me.org/Gun8hoot?lang=en" rel="RootMe">						<img src="./src/custom_banner/root-me.svg"></a>
-	<a target="_blank" href="https://app.hackthebox.com/public/users/1595967" rel="HackTheBox">	<img src="./src/custom_banner/hackthebox.svg"></a>
-	<a target="_blank" href="https://tryhackme.com/p/Gun8hoot" rel="TryHackMe">									<img src="./src/custom_banner/tryhackme.svg"></a>
+	<a target="_blank" href="https://cryptohack.org/user/Gun8hoot/" rel="CryptoHack">						<img src="https://github.com/Gun8hoot/Gun8hoot/blob/123f2dd602209a8d51ed3fa667e92b67d8920b0c/src/custom_banner/cryptohack.svg"></a>
+	<a target="_blank" href="https://www.root-me.org/Gun8hoot?lang=en" rel="RootMe">						<img src="https://github.com/Gun8hoot/Gun8hoot/blob/123f2dd602209a8d51ed3fa667e92b67d8920b0c/src/custom_banner/root-me.svg"></a>
+	<a target="_blank" href="https://app.hackthebox.com/public/users/1595967" rel="HackTheBox">	<img src="https://github.com/Gun8hoot/Gun8hoot/blob/123f2dd602209a8d51ed3fa667e92b67d8920b0c/src/custom_banner/hackthebox.svg"></a>
+	<a target="_blank" href="https://tryhackme.com/p/Gun8hoot" rel="TryHackMe">									<img src="https://github.com/Gun8hoot/Gun8hoot/blob/123f2dd602209a8d51ed3fa667e92b67d8920b0c/src/custom_banner/tryhackme.svg"></a>
 	<a target="_blank" href="https://leetcode.com/u/gun8hoot/">																	<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
 </div>
 <br>
