@@ -67,12 +67,15 @@ Here is a list a non-exhaustive list of personal projects started i have started
 </div>
 
 <div align="center">
-	<h2> 📊  • Github Stats :</h2>
-	<a href="https://github.com/Gun8hoot?tab=repositories">
-		<img src="https://stats-khaki-two.vercel.app/api/top-langs/?username=gun8hoot&theme=dark&card_width=50">
-		<br>
-		<img src="https://stats-khaki-two.vercel.app/api?username=gun8hoot&theme=dark&show_icons=false&hide_border=false&text_color=B9BCBA&ring_color=54FF47&count_private=true&hide_title=true&card_width=50">
-	</a>
+        <h2> 📊  • Github Stats :</h2>
+        <a href="https://github.com/Gun8hoot?tab=repositories">
+       			<!-- https://ghstats.dev/ -->
+				<img src="https://ghstats.dev/api/card?username=gun8hoot&theme=kanagawa&hide_title=true&border_radius=13%22%20alt=%22GitHub%20Stats%20Card&hide=followers,trend,issues,prs,repos" />
+				<br>
+                <img src="https://ghstats.dev/api/langs?username=gun8hoot&theme=kanagawa" alt="Top Languages" />
+				<br>
+                <img src="https://ghstats.dev/api/sparkline?username=gun8hoot&theme=kanagawa&days=60&width=320&height=80&border_radius=13&title=Number+of+commits+%2860+days%29" alt="Contribution Sparkline" />
+        </a>
 </div>
 
 <div align="center">
@@ -83,10 +86,4 @@ Here is a list a non-exhaustive list of personal projects started i have started
 	<a target="_blank" href="https://app.hackthebox.com/public/users/1595967" rel="HackTheBox">	<img src="https://github.com/Gun8hoot/Gun8hoot/blob/123f2dd602209a8d51ed3fa667e92b67d8920b0c/src/custom_banner/hackthebox.svg"></a>
 	<a target="_blank" href="https://tryhackme.com/p/Gun8hoot" rel="TryHackMe">									<img src="https://github.com/Gun8hoot/Gun8hoot/blob/123f2dd602209a8d51ed3fa667e92b67d8920b0c/src/custom_banner/tryhackme.svg"></a>
 	<a target="_blank" href="https://leetcode.com/u/gun8hoot/">																	<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
-</div>
-<br>
-<div align="center">
-	<a href="https://profile.intra.42.fr/users/nclavel">
-		<img src="https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white">
-	</a>
 </div>
