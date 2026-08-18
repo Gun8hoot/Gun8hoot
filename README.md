@@ -16,6 +16,7 @@ Hello, I'm **Nathan __"Gun8hoot"__ Clavel.**
 I'm a student in Software Engineering at **42 Le Havre (France)** doing the C/C++ common core. I am deeply interested in computer systems, cybersecurity, and cryptography.
 
 Here is a list a non-exhaustive list of personal projects started i have started/done :
+- [Midona](https://github.com/Gun8hoot/Midona) : A C++ packer/crypter for ELF files
 - [CTRL-TUI](https://github.com/Gun8hoot/CTRL-TUI) : A simple TUI coded from scratch in C++
 - [LNXEntropy](https://github.com/Gun8hoot/LNXEntropy) : A cryptography library to get entropy using mouse mouvement and keyboard input coded in C and without using external library
 - [PySubFinder](https://github.com/Gun8hoot/PySubFinder) : A simple Python tool to find every subdomain of a website using a wordlist
@@ -27,7 +28,7 @@ Here is a list a non-exhaustive list of personal projects started i have started
 
 <div align="center">
 	<h2> 💽  • Technologies </h2>
-	<h3>📚 • Learned technologies</h3>
+	<h3>📚 • Learned technologies : </h3>
 	<a rel="Badge C" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c&sort">
 		<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 	</a>
@@ -47,6 +48,9 @@ Here is a list a non-exhaustive list of personal projects started i have started
 	<a rel="Badge MongoDB" href="https://github.com/banne227/ft_transcendence">
 		<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 	</a>
+	<a rel="Badge Nginx" href="https://github.com/banne227/ft_transcendence">
+		<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+	</a>
 	<!--
 	To find more badge: 
 	https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#badges
@@ -58,7 +62,10 @@ Here is a list a non-exhaustive list of personal projects started i have started
 	<a rel="Badge ASM" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=asm&sort">
 		<img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
 	</a>
-	<a rel="Badge MariaDB" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=sql&sort">
+	<a rel="Badge Rust" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=rustm&sort">
+		<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
+	</a>
+    <a rel="Badge MariaDB" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=sql&sort">
 		<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 	</a>
 	<a rel="Badge Windows" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c&sort">
@@ -67,7 +74,7 @@ Here is a list a non-exhaustive list of personal projects started i have started
 </div>
 
 <div align="center">
-        <h2> 📊  • Github Stats :</h2>
+        <h2> 📊  • Github Stats</h2>
         <a href="https://github.com/Gun8hoot?tab=repositories">
        			<!-- https://ghstats.dev/ -->
 				<img src="https://ghstats.dev/api/card?username=gun8hoot&theme=kanagawa&hide_title=true&border_radius=13%22%20alt=%22GitHub%20Stats%20Card&hide=followers,trend,issues,prs,repos" />
@@ -79,7 +86,7 @@ Here is a list a non-exhaustive list of personal projects started i have started
 </div>
 
 <div align="center">
-	<h2>📡 • Other Platform :</h2>
+	<h2>📡 • Other Platforms</h2>
 	<!-- 🫥 -->
 	<a target="_blank" href="https://cryptohack.org/user/Gun8hoot/" rel="CryptoHack">						<img src="https://github.com/Gun8hoot/Gun8hoot/blob/123f2dd602209a8d51ed3fa667e92b67d8920b0c/src/custom_banner/cryptohack.svg"></a>
 	<a target="_blank" href="https://www.root-me.org/Gun8hoot?lang=en" rel="RootMe">						<img src="https://github.com/Gun8hoot/Gun8hoot/blob/123f2dd602209a8d51ed3fa667e92b67d8920b0c/src/custom_banner/root-me.svg"></a>
