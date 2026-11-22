@@ -2,6 +2,7 @@
 	<a href="#">
 		<img align="center" src="./src/banner.gif">
 	</a>
+	<p><i>Ghost in the shell - Mamoru Oshii (1995)</i></p>
 </div>
 
 <br>
