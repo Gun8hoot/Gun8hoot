@@ -5,7 +5,6 @@
 </div>
 
 <br>
-<br>
 
 <div align="center">
 	<h2>📂 • Projects</h2>
