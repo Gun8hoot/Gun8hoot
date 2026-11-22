@@ -1,17 +1,10 @@
 <div align="center">
 	<a href="#">
-		<img align="center" src="https://raw.githubusercontent.com/Gun8hoot/Gun8hoot/refs/heads/main/src/banner.gif">
+		<img align="center" src="./src/banner.gif">
 	</a>
 </div>
 
 <br>
-<br>
-
-<div align="center">
-	<h1> 🛰️ • About me </h1>
-</div>
-
-Hello, I'm **Nathan __"Gun8hoot"__ Clavel**, a computer science student at **42 Le Havre**, passionate about low-level development, cybersecurity and system administration.
 <br>
 
 <div align="center">
@@ -106,11 +99,11 @@ Wiper that walks through the filesystem and irrecoverably erases every file (Gut
 
 <div align="center">
 	<h3> 📚 • Not learned yet : </h3>
-	<a rel="Badge Rust" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=rustm&sort">
-		<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
-	</a>
 	<a rel="Badge Windows" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=c&sort">
 		<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+	</a>
+	<a rel="Badge Rust" href="https://github.com/Gun8hoot?tab=repositories&q&type&language=rustm&sort">
+		<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
 	</a>
 </div>
 
